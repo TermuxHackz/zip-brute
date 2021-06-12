@@ -67,9 +67,13 @@ python zipbrute.py
 **Installation on Termux:**
 
 > git clone https://github.com/TermuxHackz/zip-brute
+
 > cd zip-brute
+
 > chmod +x zipbrute.py
+
 > python2 -m pip install -r requirements.txt
+
 > python2 zipbrute.py
 
 # Having Issues? 🔎 
