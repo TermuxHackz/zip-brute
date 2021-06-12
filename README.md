@@ -4,6 +4,9 @@
 <h5>Language: Python2</h5>
 <h5>Author: AnonyminHack5</h5>
 
+# Default Wordlist
+The default wordlist is: passwords.txt
+
 -----------------
 <h4>Telegram</h4>
 **<a href="https://t.me/Termux1_bot">Contact my bot</a>**
