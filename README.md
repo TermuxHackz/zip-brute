@@ -1,4 +1,4 @@
-# Zip-brute
+# zip-brute
 ## Zip File Password Cracking with Using Password List !
 
 <h5>Language: Python2</h5>
@@ -6,7 +6,7 @@
 
 -----------------
 <h4>Telegram</h4>
-** <a href="https://t.me/Termux1_bot">Contact my bot</a>**
+**<a href="https://t.me/Termux1_bot">Contact my bot</a>**
 
 -----------------
 # Requirements to Use zip brute?
@@ -25,10 +25,10 @@ Sample of .Zip File: [Show](https://github.com/TermuxHackz/zip-brute/blob/master
 -----------------
 # Tested On
 
-##>>>> Linux
-##>>>> Windows
-##>>>> Termux
-##>>>> Lubuntu
+## >>Linux
+## >>Windows
+## >>Termux
+## >>Lubuntu
 
 # ScreenShots:
 
@@ -76,9 +76,9 @@ python zipbrute.py
 If you have issues on how to use the tool or you notice a bug in the tool, feel free to send me an email at 📫 <b>AnonyminHack5@protonmail.com</b> and i will get back to you. 
 
 # Follow us
-##>>> [1] <a href="https://t.me/termuxhackz1">Join telegram channel</a>
-##>>> [2] <a href="https://t.me/Termux1_bot">Contact me telegram hacking tutorial bot</a>
-##>>> [3] <a href="https://chat.whatsapp.com/IIt3FtoimjL1LcdKqDm5o2">Join our whatsapp Group</a>
-##>>> [4] <a href="https://www.facebook.com/groups/423043615428159/?ref=share">Join our Facebook Group</a>
+## >>> [1] <a href="https://t.me/termuxhackz1">Join telegram channel</a>
+## >>> [2] <a href="https://t.me/Termux1_bot">Contact my telegram hacking tutorial bot</a>
+## >>> [3] <a href="https://chat.whatsapp.com/IIt3FtoimjL1LcdKqDm5o2">Join our whatsapp Group</a>
+## >>> [4] <a href="https://www.facebook.com/groups/423043615428159/?ref=share">Join our Facebook Group</a>
 
 
